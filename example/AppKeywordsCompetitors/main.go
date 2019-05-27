@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
+	"net/http"
 	"os"
 
-	"github.com/mrboom141/apptweak-go/apptweak"
+	"github.com/jonagold-lab/go-apptweak/apptweak"
 )
 
 type input struct {
@@ -50,13 +51,13 @@ func main() {
 		},
 	}
 
-	params := apptweak.Parameters{
+	params := apptweak.Options{
 		Country:  app.markets[0],
 		Language: app.languages[0],
 		Device:   app.devices[0],
 	}
 	token := os.Getenv("APPTWEAK_TOKEN")
-	client := apptweak.NewAuthClient(token)
+	client := apptweak.NewAuthClient(token, &http.Client{})
 	resp, err := client.AppKeywordsCompetitors(app.appID, params)
 
 	if err != nil {

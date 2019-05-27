@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/mrboom141/apptweak-go/apptweak"
+	"github.com/jonagold-lab/go-apptweak/apptweak"
 )
 
 type input struct {
