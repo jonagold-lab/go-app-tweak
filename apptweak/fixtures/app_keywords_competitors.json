@@ -1,0 +1,137 @@
+{
+    "content": [
+        {
+            "id": 1239912206,
+            "title": "GenM - Marketing Courses",
+            "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/85/cf/73/85cf7372-f61c-3a52-00df-5e1052204cbb/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-5.png/1024x1024bb.jpg",
+            "genres": [
+                6017,
+                6000
+            ],
+            "price": "$0.00",
+            "rating": 4.769,
+            "version": "3.4.4"
+        },
+        {
+            "id": 1421651625,
+            "title": "Learn Digital Marketing Course",
+            "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/ea/e7/6a/eae76a4a-b1e5-fa4a-aca9-9059e9ce2fea/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png/1024x1024bb.jpg",
+            "genres": [
+                6017,
+                6009
+            ],
+            "price": "$0.00",
+            "rating": 0,
+            "version": "1.2"
+        },
+        {
+            "id": 1180544325,
+            "title": "Digitalite",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/2a/2b/00/2a2b0033-69e2-837b-0598-0368795f6e37/AppIcon-1x_U007emarketing-85-220-0-5.png/1024x1024bb.jpg",
+            "genres": [
+                6017,
+                6007
+            ],
+            "price": "$0.00",
+            "rating": 0,
+            "version": "2.1.7"
+        },
+        {
+            "id": 1217361454,
+            "title": "Digital Marketing Pro",
+            "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/6e/4f/a7/6e4fa723-f8b7-6c68-d4fb-c9aa15670554/AppIcon-1x_U007emarketing-85-220-0-9.png/1024x1024bb.jpg",
+            "genres": [
+                6017,
+                6000
+            ],
+            "price": "$0.00",
+            "rating": 0,
+            "version": "1.3.0"
+        },
+        {
+            "id": 652132258,
+            "title": "Online courses from HowTech",
+            "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/89/61/f3/8961f306-355e-48f1-91ce-cdb4ef7aa983/AppIcon-1x_U007emarketing-85-220-6.png/360x216bb.png",
+            "genres": [
+                6017,
+                6018
+            ],
+            "price": "$0.00",
+            "rating": 0,
+            "version": "2.4"
+        },
+        {
+            "id": 1017813651,
+            "title": "The Great Courses Plus",
+            "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/1c/2f/7e/1c2f7e98-8f5a-84c8-281f-3e9acc8c12d9/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/1024x1024bb.jpg",
+            "genres": [
+                6017,
+                6012
+            ],
+            "price": "$0.00",
+            "rating": 4.84,
+            "version": "3.1"
+        },
+        {
+            "id": 1128875336,
+            "title": "Study.com",
+            "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/72/ed/7f/72ed7f72-dbdd-80ff-c8cf-72bfbe3e0cd9/AppIcon-0-1x_U007emarketing-0-85-220-10.png/1024x1024bb.jpg",
+            "genres": [
+                6017,
+                6006
+            ],
+            "price": "$0.00",
+            "rating": 4.08,
+            "version": "1.9.0"
+        },
+        {
+            "id": 1084807225,
+            "title": "LinkedIn Learning",
+            "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/69/f2/ab/69f2abf1-ce16-5b1b-74ad-df40e434de50/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/1024x1024bb.jpg",
+            "genres": [
+                6017
+            ],
+            "price": "$0.00",
+            "rating": 4.764,
+            "version": "1.1.95"
+        },
+        {
+            "id": 1320646141,
+            "title": "Learn in minutes: Snack videos",
+            "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/95/89/91/95899132-2152-33e5-56ec-f4e240cbf3a4/AppIcon-1-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-8.png/1024x1024bb.jpg",
+            "genres": [
+                6017,
+                6008
+            ],
+            "price": "$0.00",
+            "rating": 4.491,
+            "version": "5.02"
+        },
+        {
+            "id": 571227527,
+            "title": "IWCollege",
+            "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/66/db/54/66db5448-2247-b9ea-9040-0954193f45f1/AppIcon-0-1x_U007emarketing-0-0-85-220-0-7.png/1024x1024bb.jpg",
+            "genres": [
+                6017
+            ],
+            "price": "$0.00",
+            "rating": 0,
+            "version": "3.0.7"
+        }
+    ],
+    "metadata": {
+        "request": {
+            "path": "/ios/applications/1414415906/keywords/competitors.json",
+            "store": "ios",
+            "params": {
+                "country": "us",
+                "language": "en",
+                "device": "iphone",
+                "id": "1414415906",
+                "format": "json"
+            },
+            "performed_at": "2019-03-27 19:13:43 UTC"
+        },
+        "content": {}
+    }
+}
