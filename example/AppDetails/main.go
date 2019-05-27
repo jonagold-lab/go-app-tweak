@@ -62,7 +62,7 @@ func main() {
 	resp, err := client.AppDetails(app.appID, options)
 	if err != nil {
 		if err.Error() == "Response Error" {
-			fmt.Printf("This is a %v: %v", err)
+			fmt.Printf("This is a %v", err)
 		}
 		fmt.Println("error:", err)
 		return
