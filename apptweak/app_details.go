@@ -2,6 +2,7 @@ package apptweak
 
 import (
 	"encoding/json"
+	"fmt"
 	"net/http"
 	"strconv"
 )
@@ -142,7 +143,7 @@ func (c *Client) AppDetails(appID int, o Options) (*AppDetailResponse, error) {
 	var resp AppDetailResponse
 	err = json.Unmarshal([]byte(b), &resp)
 	if err != nil {
-		return nil, err
+		return nil, fmt.Errorf("Error: %v | Response of Request: %s", err, string(b))
 	}
 	return &resp, nil
 }
