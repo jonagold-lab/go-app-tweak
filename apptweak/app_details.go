@@ -80,7 +80,9 @@ type ScreenshotDetail struct {
 }
 
 type Videos struct {
-	IPhone6AndUp []VideoDetail `json:"iphone6+"`
+	IPhone5      VideoDetail `json:"iphone5"`
+	IPhone6      VideoDetail `json:"iphone6"`
+	IPhone6AndUp VideoDetail `json:"iphone6+"`
 }
 
 type VideoDetail struct {
