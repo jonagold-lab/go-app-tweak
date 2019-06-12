@@ -1,0 +1,74 @@
+{
+  "content": {
+    "release_date": "2018-09-25 00:00:00 UTC",
+    "versions": [
+      {
+        "version": "1.8",
+        "release_date": "2019-03-25 00:00:00 UTC",
+        "release_notes": "We added new amazing trailers for Playbooks to give you a better preview of what you will learn! We also improved the navigation to bring you a better learning experience and fixed some minor bugs.\n\nEnjoy new amazing Playbooks on Hiring Engineers, PR, User Acquisition, Product Strategy, Startup Culture & Problem Solving.\n\nEnjoy the new version and let us know your feedback by emailing leon@watchplaybook.com. Thanks for using Playbook.\n\n#AlwaysBeLearning"
+      },
+      {
+        "version": "1.9",
+        "release_date": "2019-04-03 00:00:00 UTC",
+        "release_notes": "We love learning from our users and improved our onboarding as well as our discover to give you a better learning experience.\n\nWe added more amazing trailers for Playbooks to give you a first taste of great learnings.\n\nAnd we fixed as usual some minor bugs.\n\nEnjoy the new version and let us know your feedback by emailing leon@watchplaybook.com. Thanks for using Playbook.\n\n#AlwaysBeLearning"
+      }
+    ],
+    "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/04/e8/8e/04e88ea0-de2a-4e57-dd2a-d43d0f8dd659/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-10.png/1024x1024bb.jpg",
+    "genres": [6017, 6016],
+    "title": "Playbook: Learn Skills Faster",
+    "subtitle": "Video classes from top experts",
+    "slug": "playbook-learn-skills-faster",
+    "description": "Want to learn how to build better products and companies? Learn in over 150+ Mobile Video Classes from world-class instructors from companies like Spotify, PayPal, Uber.\n\nPLAYBOOK is the #1 Mobile Video Learning App for professional education. All our classes are built using the Micro-Learning concept to help you learn faster and more effectively.\n\n* Access 150+ video classes from world-class instructors from Spotify, PayPal, Uber and more\n* Refresh your learning routine with 100+ classes added every month\n* Learning programs from 7-15 minutes, easy to digest\n* Micro-Learning to help you learn faster and retain more knowledge\n* Video classes in over 8+ categories ranging like Product, Design & Entrepreneurship, Growth, Fundraising and many more\n* Track your learning progress\n* Amazing playlists & programs designed for Product Managers, Entrepreneurs and many more.\n\nPLAYBOOK is the perfect learning app for busy people who want to accelerate their career and are lifelong learners. Through a combination of theory, examples and action steps, our world-class instructors guide you through the most effective mobile learning programs possible.\n\nPLAYBOOK lets you learn when you want, where you want and the way you want. Our classes are 2-3 minutes long and a course can be finished in 10-15 minutes so you can choose the perfect lengths to fit with your schedule. Topics include:\n\n* Design\n* Design Thinking\n* Product Management\n* Product Roadmap\n* Product Metrics\n* Leadership\n* Team & Culture\n* Sales\n* Recruiting & HR\n* Fundraising\n* Pitching\n* Entrepreneurship\n& much more\n\nTrack your progress with:\n\n* Learning History\n* Activity Tracker\n* Time spent learning\n\n\"One of our favourite Startups from the recent Angelpad cohort\" - Connie Loizos, TechCrunch & StrictlyVC\n\n\n\n\n\nGet unlimited access to all classes for USD$39.99/year. We also offer a 100% money back guarantee for the annual plan after the 7 day trial.\n\n- Payment will be charged to iTunes Account at confirmation of purchase\n- Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period\n- Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal\n- Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase\n- Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable\n\nTerms of Service: https://watchplaybook.com/terms",
+    "promotionalText": "",
+    "features": { "game_center": false, "passbook": false, "in_apps": true },
+    "devices": ["iphone", "ipod"],
+    "price": "$0.00",
+    "size": 84033536,
+    "screenshots": {
+      "iphone": [],
+      "iphone5": [],
+      "iphone6": [],
+      "iphone6+": [
+        {
+          "id": "fb988825-18ba-80d9-ac4a-8dc5175259ef",
+          "path_component": "image/thumb/Purple123/v4",
+          "filename": "pr_source.jpg/1242x2208bb.jpg",
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/fb/98/88/fb988825-18ba-80d9-ac4a-8dc5175259ef/pr_source.jpg/1242x2208bb.jpg"
+        },
+        {
+          "id": "ddacfad4-7014-eab3-6734-913eeb0a7f01",
+          "path_component": "image/thumb/Purple123/v4",
+          "filename": "pr_source.jpg/1242x2208bb.jpg",
+          "url": "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/dd/ac/fa/ddacfad4-7014-eab3-6734-913eeb0a7f01/pr_source.jpg/1242x2208bb.jpg"
+        }
+      ],
+      "ipad": [],
+      "ipadPro": [],
+      "iphone6plus": [],
+      "appleWatch": []
+    },
+    "videos": {
+      "iphone6+": {}
+    },
+    "rating": { "average": 5.0 },
+    "customers_also_bought": ["1236125772", "1306977461"],
+    "id": 1414415906,
+    "developer": { "name": "Meemo Media Inc.", "id": 1159650752 }
+  },
+  "metadata": {
+    "request": {
+      "path": "/applications/1414415906/metadata.json",
+      "store": "ios",
+      "params": {
+        "country": "us",
+        "language": "en",
+        "device": "iphone",
+        "max-age": 94608000,
+        "id": "1414415906",
+        "format": "json"
+      },
+      "performed_at": "2019-04-12 14:06:53 UTC"
+    },
+    "content": {}
+  }
+}

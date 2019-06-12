@@ -36,6 +36,17 @@ func TestAppDetails(t *testing.T) {
 			apptitle:      "Playbook: Learn Skills Faster",
 		},
 		{
+			description:   "apptweak api success with empty videos",
+			token:         "12345x",
+			appID:         1414415906,
+			urlPath:       "/ios/applications/1414415906/metadata.json",
+			options:       Options{},
+			expectedError: nil,
+			responseCode:  200,
+			fixture:       "./fixtures/app_meta_empty_videos.json",
+			apptitle:      "Playbook: Learn Skills Faster",
+		},
+		{
 			description:   "with options",
 			token:         "12345x",
 			appID:         1414415906,

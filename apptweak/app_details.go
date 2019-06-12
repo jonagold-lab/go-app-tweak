@@ -79,10 +79,9 @@ type ScreenshotDetail struct {
 	URL           string `json:"url"`
 }
 
+// Videos TODO: quickfix use an iterface since iphone6+ can be {} or []
 type Videos struct {
-	IPhone5      VideoDetail `json:"iphone5"`
-	IPhone6      VideoDetail `json:"iphone6"`
-	IPhone6AndUp VideoDetail `json:"iphone6+"`
+	IPhone6AndUp interface{} `json:"iphone6+"`
 }
 
 type VideoDetail struct {
