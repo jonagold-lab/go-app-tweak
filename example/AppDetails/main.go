@@ -20,35 +20,18 @@ type input struct {
 
 func main() {
 	app := input{
-		appID:     1,
-		markets:   []string{"us"},
-		languages: []string{"en"},
-		devices:   []string{"iphone"},
-		topCompetitorIds: []int{
-			1084807225,
-			562413829,
-			431748264,
-			819700936,
-			568839295,
-		},
+		appID:            1222530780,
+		markets:          []string{"de"},
+		languages:        []string{"de"},
+		devices:          []string{"iphone"},
+		topCompetitorIds: []int{891535485, 654810212},
 		topKeywords: []string{
-			"Micro-Learning",
-			"learning",
-			"mobile learning",
-			"learn new skills",
-			"learn faster",
-			"video learning",
-			"video classes",
+			"hiit",
+			"freeletics",
+			"high intensity training",
+			"weightloss",
 		},
-		topNegativeKeywords: []string{
-			"language learning",
-			"coding learning",
-			"audio",
-			"fitness",
-			"workout",
-			"cooking",
-			"acting",
-		},
+		topNegativeKeywords: []string{},
 	}
 
 	options := apptweak.Options{
